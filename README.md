@@ -2,5 +2,5 @@
 
 # memo
 debug_log
-'''print();'''
-'''print(xxx.ToString());'''
+'''Print();'''
+'''Print(xxx.ToString());'''
